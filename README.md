@@ -4,9 +4,9 @@ Una herramienta gratuita para ordenar ideas en un lienzo infinito: notas, conexi
 
 ## Usar ahora, sin instalar
 
-**[Abrir Esquematia en el navegador](https://esquematia.vercel.app/)**
+**[Abrir Esquematia en GitHub Pages](https://cdiazg23.github.io/esquematia/)** *(o en [Vercel](https://esquematia.vercel.app/))*
 
-No hay que crear cuenta. Tus esquemas no se suben a ningún servidor: se guardan en tu propio dispositivo. Desde el menú del navegador puedes instalarla («Instalar aplicación» o «Agregar a pantalla de inicio») para abrirla como cualquier otra app y usarla sin conexión.
+Funciona en computador y en celular, sin crear cuenta. Tus notas y esquemas no se suben a ningún servidor: se guardan en tu propio dispositivo. Puedes usarla directamente en el navegador (Modo Web) o instalarla como aplicación de escritorio (Modo Escritorio) desde el menú «Ayuda → 💻 Instalar en el equipo» o desde el botón de instalación del navegador («Instalar aplicación»), permitiéndote abrirla en su propia ventana y usarla incluso sin conexión a internet.
 
 ## Qué puedes hacer
 
